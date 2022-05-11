@@ -1,0 +1,423 @@
+{
+  "users": [
+    {
+      "full_name": "Defne Kandemir",
+      "email": "defne@kablosuzkedi.com",
+      "password": "123123123",
+      "categoryId": 2,
+      "id": 1,
+      "isAdmin": true
+    },
+    {
+      "full_name": "Eren Tutkan",
+      "email": "eren@tutkan.com",
+      "password": "123123123",
+      "categoryId": 2,
+      "id": 2
+    },
+    {
+      "full_name": "Abdullah Halit Korucuoğlu",
+      "email": "adbullah@halit.com",
+      "password": "123123123",
+      "categoryId": 9,
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "title": "Vue.js",
+      "id": 1
+    },
+    {
+      "title": "JavaScript",
+      "id": 2
+    },
+    {
+      "title": "PHP",
+      "id": 3
+    },
+    {
+      "title": ".Net",
+      "id": 4
+    },
+    {
+      "title": "React",
+      "id": 5
+    },
+    {
+      "title": "Angular",
+      "id": 6
+    },
+    {
+      "title": "Svelte",
+      "id": 7
+    },
+    {
+      "title": "Webpack",
+      "id": 8
+    },
+    {
+      "title": "GO",
+      "id": 9
+    },
+    {
+      "title": "Python",
+      "id": 10
+    },
+    {
+      "title": "DevOPS",
+      "id": 11
+    },
+    {
+      "title": "AWS",
+      "id": 12
+    },
+    {
+      "title": "Java 12",
+      "id": 13
+    },
+    {
+      "title": "Java 1",
+      "id": 14
+    }
+  ],
+  "questions": [
+    {
+      "title": "Vue 3 ile Multiple v-model Nasıl Kullanılır?",
+      "details": "<p><span style=\"background-color: rgb(204, 232, 204);\">Vue 3 ile Multiple v-model Nasıl Kullanılır? Bu nedir Abi yaaa çok güzel</span><strong style=\"background-color: rgb(204, 232, 204);\"> bir özellik olmuş.dfgdgdfdgdgdg 2222222</strong></p>",
+      "categoryId": 1,
+      "created_at": "2022-05-07T11:07:08.441Z",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "Rest API Sorunu",
+      "details": "<p>Node.js ile bir Rest Api nasil yazilir? Bilmem nasil yapilir?</p>",
+      "categoryId": 2,
+      "created_at": "2022-05-07T10:07:08.441Z",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Yeni Bir Soru",
+      "details": "<p>Test <em>Edilmelik</em> bir soru</p>",
+      "categoryId": 5,
+      "created_at": "2022-05-07T12:07:08.441Z",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "Bu soru Yeni",
+      "details": "<p>Bu soru Yeni</p>",
+      "categoryId": 8,
+      "created_at": "2022-05-07T13:45:35.399Z",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "title": "Vue3 Composition API",
+      "details": "<p>Vue3 Composition API Nasıl oluyor?</p>",
+      "categoryId": 1,
+      "created_at": "2022-05-08T11:18:03.177Z",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "title": "Vue JavaScript Framework",
+      "details": "<p>Vue JavaScript Framework</p>",
+      "categoryId": 2,
+      "created_at": "2022-05-08T11:18:32.374Z",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "title": "Bu nasil FW",
+      "details": "<p>Bu nasil FW! Süpermiş.</p>",
+      "categoryId": 1,
+      "created_at": "2022-05-08T11:36:24.936Z",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "title": "Bu Şafak Tarafından Sorulmuş Bir Sorudur",
+      "details": "<p>Bu Şafak Tarafından Sorulmuş Bir Sorudur</p>",
+      "categoryId": 12,
+      "created_at": "2022-05-08T11:38:38.252Z",
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "title": "Garip soru",
+      "details": "<p>aaaaa</p>",
+      "categoryId": 11,
+      "created_at": "2022-05-08T11:39:51.118Z",
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "title": "Deneme Tekrar",
+      "details": "<p>Deneme Tekrar</p>",
+      "categoryId": 7,
+      "created_at": "2022-05-08T11:40:05.518Z",
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "title": "abc",
+      "details": "<p>abc</p>",
+      "categoryId": 5,
+      "created_at": "2022-05-08T21:44:33.723Z",
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "title": "abc",
+      "details": "<p>abc</p>",
+      "categoryId": 4,
+      "created_at": "2022-05-10T15:41:22.222Z",
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "title": "Angular Yapısı Karışık",
+      "details": "<p>Karışık</p>",
+      "categoryId": 6,
+      "created_at": "2022-05-10T15:43:47.767Z",
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "title": "Go Sorusu",
+      "details": "<p>Go</p>",
+      "categoryId": 9,
+      "created_at": "2022-05-10T15:45:35.275Z",
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "title": "Go Go",
+      "details": "<p>GGGG</p>",
+      "categoryId": 9,
+      "created_at": "2022-05-10T15:46:42.147Z",
+      "userId": 1,
+      "id": 15
+    },
+    {
+      "title": "Java Değişecek",
+      "details": "<p>Değişim</p>",
+      "categoryId": 13,
+      "created_at": "2022-05-10T15:49:44.343Z",
+      "userId": 1,
+      "id": 16
+    },
+    {
+      "title": "Burada Soru Yok",
+      "details": "<p>Soru</p>",
+      "categoryId": 10,
+      "created_at": "2022-05-10T15:53:40.635Z",
+      "userId": 1,
+      "id": 17
+    },
+    {
+      "title": "aa",
+      "details": "<p>aa</p>",
+      "categoryId": 2,
+      "created_at": "2022-05-10T15:57:07.800Z",
+      "userId": 1,
+      "id": 18
+    },
+    {
+      "title": "aa",
+      "details": "<p>aa</p>",
+      "categoryId": 6,
+      "created_at": "2022-05-10T15:57:24.666Z",
+      "userId": 1,
+      "id": 19
+    },
+    {
+      "title": "ahmet",
+      "details": "<p>mehmet</p>",
+      "categoryId": 9,
+      "created_at": "2022-05-10T16:01:34.965Z",
+      "userId": 1,
+      "id": 20
+    },
+    {
+      "title": "ah",
+      "details": "<p>ah</p>",
+      "categoryId": 2,
+      "created_at": "2022-05-10T16:02:17.273Z",
+      "userId": 1,
+      "id": 21
+    },
+    {
+      "title": "cem",
+      "details": "<p>cem</p>",
+      "categoryId": 9,
+      "created_at": "2022-05-10T16:02:24.248Z",
+      "userId": 1,
+      "id": 22
+    },
+    {
+      "title": "ahs",
+      "details": "<p>ags</p>",
+      "categoryId": 10,
+      "created_at": "2022-05-10T16:03:26.617Z",
+      "userId": 1,
+      "id": 23
+    },
+    {
+      "title": "DEV",
+      "details": "<p>DEV</p>",
+      "categoryId": 11,
+      "created_at": "2022-05-10T16:04:25.380Z",
+      "userId": 1,
+      "id": 24
+    },
+    {
+      "title": "aa",
+      "details": "<p>aa</p>",
+      "categoryId": 8,
+      "created_at": "2022-05-10T16:05:15.121Z",
+      "userId": 1,
+      "id": 25
+    },
+    {
+      "title": "ahmet mehmet deneme",
+      "details": "<p>deneme</p>",
+      "categoryId": 14,
+      "created_at": "2022-05-10T16:14:19.793Z",
+      "userId": 1,
+      "id": 26
+    },
+    {
+      "title": "Java 1 Sorusu",
+      "details": "<p>Soru</p>",
+      "categoryId": 14,
+      "created_at": "2022-05-10T16:15:11.037Z",
+      "userId": 1,
+      "id": 27
+    },
+    {
+      "title": "ahmet",
+      "details": "<p>ahmet</p>",
+      "categoryId": 7,
+      "created_at": "2022-05-10T16:17:06.285Z",
+      "userId": 1,
+      "id": 28
+    },
+    {
+      "title": "ahmet",
+      "details": "<p>123</p>",
+      "categoryId": 4,
+      "created_at": "2022-05-10T18:39:01.747Z",
+      "userId": 1,
+      "id": 29
+    },
+    {
+      "title": "ahmet",
+      "details": "<p>mehmet</p>",
+      "categoryId": 3,
+      "created_at": "2022-05-10T18:42:42.284Z",
+      "userId": 1,
+      "id": 30
+    }
+  ],
+  "comments": [
+    {
+      "details": "<p>deneme yanilma </p>",
+      "userId": 1,
+      "questionId": 1,
+      "created_at": "2022-05-07T12:59:44.415Z",
+      "id": 1
+    },
+    {
+      "details": "<p>bu benim comment'im</p>",
+      "userId": 1,
+      "questionId": 1,
+      "created_at": "2022-05-07T13:11:02.375Z",
+      "id": 2
+    },
+    {
+      "details": "<p>ben bu soruya cevap verdim...</p>",
+      "userId": 1,
+      "questionId": 2,
+      "created_at": "2022-05-07T13:33:39.742Z",
+      "id": 3
+    },
+    {
+      "details": "<p>yeni bir ekleme</p>",
+      "userId": 1,
+      "questionId": 2,
+      "created_at": "2022-05-07T13:34:31.576Z",
+      "id": 4
+    },
+    {
+      "details": "<p>burada baska bir comment</p>",
+      "userId": 1,
+      "questionId": 2,
+      "created_at": "2022-05-07T13:35:28.747Z",
+      "id": 5
+    },
+    {
+      "details": "<p>asdadasdd</p>",
+      "userId": 1,
+      "questionId": 3,
+      "created_at": "2022-05-07T13:37:12.382Z",
+      "id": 6
+    },
+    {
+      "details": "<p>hadi canim comment olmadan olmaz..</p>",
+      "userId": 1,
+      "questionId": 4,
+      "created_at": "2022-05-07T13:48:41.598Z",
+      "id": 7
+    },
+    {
+      "details": "<p>Böyle salakça sorulari sormayin.</p>",
+      "userId": 2,
+      "questionId": 1,
+      "created_at": "2022-05-07T13:49:43.857Z",
+      "id": 8
+    }
+  ],
+  "favorites": [],
+  "likes": [
+    {
+      "userId": 1,
+      "commentId": 1,
+      "status": false,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "commentId": 2,
+      "status": true,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "commentId": 8,
+      "status": false,
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "commentId": 1,
+      "status": false,
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "commentId": 2,
+      "status": true,
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "commentId": 8,
+      "status": true,
+      "id": 6
+    }
+  ]
+}
