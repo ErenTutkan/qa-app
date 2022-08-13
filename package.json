@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
-    "core-js": "^3.8.3",
+    "core-js": "^3.23.5",
     "lodash": "^4.17.21",
     "moment": "^2.29.3",
     "secure-ls": "^1.2.6",
