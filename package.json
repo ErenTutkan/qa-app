@@ -14,7 +14,7 @@
     "moment": "^2.29.3",
     "secure-ls": "^1.2.6",
     "vue": "^3.2.13",
-    "vue-router": "^4.0.3",
+    "vue-router": "^4.1.2",
     "vue3-quill": "^0.2.6",
     "vuex": "^4.0.0",
     "vuex-persistedstate": "^4.1.0"
